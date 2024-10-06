@@ -1,4 +1,7 @@
-Hello! 
+
 My name is file1.txt!
 
 I add new functional
+
+Add new str 
+Hello! 
